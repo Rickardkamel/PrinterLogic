@@ -1,0 +1,14 @@
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\ScriptQueue.exe.config
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\ScriptQueue.exe
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\ScriptQueue.pdb
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\obj\Debug\ScriptQueue.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\obj\Debug\ScriptQueue.exe
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\obj\Debug\ScriptQueue.pdb
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\rickam\Desktop\ITM\ScriptQueue\ScriptQueue\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll

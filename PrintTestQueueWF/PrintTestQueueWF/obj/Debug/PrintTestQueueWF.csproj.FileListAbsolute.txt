@@ -1,0 +1,9 @@
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\bin\Debug\PrintTestQueueWF.exe.config
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\bin\Debug\PrintTestQueueWF.exe
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\bin\Debug\PrintTestQueueWF.pdb
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.Form1.resources
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.Properties.Resources.resources
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.csproj.GenerateResource.Cache
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.exe
+C:\Users\rickam\Desktop\ITM\PrintTestQueueWF\PrintTestQueueWF\obj\Debug\PrintTestQueueWF.pdb
